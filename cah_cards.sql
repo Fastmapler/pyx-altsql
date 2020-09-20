@@ -574,7 +574,7 @@ COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 446	0	2	Critics are raving about HBO's new <i>Game of Thrones</i> spin-off, "____ of ____."	FNTSY
 448	0	1	Your father was a powerful wizard, Harry. Before he died, he left you something very precious: ____.	FNTSY
 449	0	1	Having tired of poetry and music, the immortal elves now fill their days with ____.	FNTSY
-450	0	1	And in the end, the dragon was not evil; he just wanted ____.	FNTSY
+450	0	1	And in the end, the dragon was not evil. he just wanted ____.	FNTSY
 451	0	1	Who blasphemes and bubbles at the center of all infinity, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time?	FNTSY
 452	0	1	Legend tells of a princess who has been asleep for a thousand years and can only be awoken by ____.	FNTSY
 453	0	1	Coming this spring from BioWare, <i>Mass Effect: ____.</i>	MSFX
